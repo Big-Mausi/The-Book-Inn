@@ -1,0 +1,19 @@
+body {
+  background-color: #f8f5f2;
+  color: #2e2e2e;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.page-title {
+  font-weight: 700;
+  color: #5d4037;
+}
+
+.section-title {
+  font-weight: 600;
+  color: #5d4037;
+}
